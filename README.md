@@ -6,8 +6,7 @@ Notion : https://www.notion.so/invite/cdfc26a683695f14d158a02bc720c85715be1732
 
 Google Meet: https://meet.google.com/ieb-bjaj-ppc
 
-데이터 준비: https://www.kaggle.com/datasnaek/youtube-new?select=CAvideos.csv,
-
+데이터 준비: https://www.kaggle.com/datasnaek/youtube-new?select=CAvideos.csv, 
             https://www.kaggle.com/datasnaek/youtube/notebooks
 
 참고자료: https://www.kaggle.com/datasnaek/youtube-new/notebooks?sortBy=relevance&group=everyone&search=predic&page=1&pageSize=20&datasetId=4549
